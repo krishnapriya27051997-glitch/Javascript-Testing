@@ -8,5 +8,6 @@ for (let k = 1; k<= 2*i-1; k++){
 }
 console.log(row);
 console.log('\n');
+console.log();
 
 }     
